@@ -12,3 +12,4 @@
 
 **Achieved:**
 Use 16 threads to sort about 4GB data, with parameters like depth and cutoffs to control parallel scale. The speedup is 3x compared to the serial version.
+![alt text](<Screenshot Of Resource Monitor.png>)
